@@ -1,12 +1,15 @@
-import logo from './logo.svg';
 import './App.css';
 import Layout from './components/layout/Layout';
+import { BrowserRouter, Route, Routes } from 'react-router-dom';
+import { Peliculas, Turnos, Administrador } from './pages';
 
 function App() {
   return (
-    <div className="App">
-      <Layout/>
-    </div>
+    <BrowserRouter>
+      <Routes>
+        <Route path="/" element={<Layout/>}/>
+      </Routes>
+    </BrowserRouter>
   );
 }
 
