@@ -1,4 +1,4 @@
-import Footer from "./Footer"
+import Content from "./Content"
 import Header from "./Header"
 import Sidebar from "./Sidebar"
 
@@ -6,10 +6,11 @@ import Sidebar from "./Sidebar"
 function Layout() {
   return (
     <div>
-      <h1>Layout</h1>
-      <Header/>
-      <Sidebar/>
-      <Footer/>
+      <Header />
+      <div className="flex">
+        <Sidebar/>
+        <Content/>
+      </div>
     </div>
   )
 }
