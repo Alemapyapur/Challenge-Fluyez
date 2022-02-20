@@ -4,10 +4,12 @@ function Sidebar() {
   return (
     <div className="static w-1/6 bg-slate-800 h-screen text-xs text-left">
       <ul className="uppercase m-4 text-white">
-        <li className="uppercase py-2 hover:text-cyan-500">dashboard</li>
+        <li className="uppercase py-2 hover:text-cyan-500">
+          <Link to="/">inicio</Link>
+        </li>
         <li className="uppercase py-2 hover:text-cyan-500">películas</li>
-        <li className="uppercase py-2 hover:text-cyan-500">turnos</li>
-        <li className="uppercase py-2 hover:text-cyan-500">administradores</li>
+        <li className="uppercase py-2 hover:text-cyan-500"><Link to="/turnos">turnos</Link></li>
+        <li className="uppercase py-2 hover:text-cyan-500"><Link to="/administrador">administrador</Link></li>
         <li className="uppercase py-2 hover:text-cyan-500">perfil</li>
         <li className="uppercase py-2 hover:text-cyan-500">cerrar sesión</li>
         <li className="uppercase py-2 ">
@@ -29,6 +31,10 @@ function Sidebar() {
         </li>
 
         <li className="capitalize py-2 ">
+
+
+
+          
           <span className="uppercase hover:text-cyan-500">categorías</span>
           <ul className="ml-2">
             <li className="py-1 hover:text-cyan-500">

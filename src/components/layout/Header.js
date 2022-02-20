@@ -8,7 +8,7 @@ function Header() {
       <div className="bg-slate-900 w-5/6 flex justify-between items-center p-4">
         <div className="px-4">
           <button>
-          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="32" height="32"><path fill="none" d="M0 0h24v24H0z"/><path d="M10.828 12l4.95 4.95-1.414 1.414L8 12l6.364-6.364 1.414 1.414z" fill="rgba(255,255,255,1)"/></svg>
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="32" height="32"><path fill="none" d="M0 0h24v24H0z"/><path d="M10.828 12l4.95 4.95-1.414 1.414L8 12l6.364-6.364 1.414 1.414z" fill="rgba(255,255,255,1)"/></svg>
           </button>
           <button>
             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="32" height="32"><path fill="none" d="M0 0h24v24H0z"/><path d="M13.172 12l-4.95-4.95 1.414-1.414L16 12l-6.364 6.364-1.414-1.414z" fill="rgba(255,252,252,1)"/></svg>
@@ -25,9 +25,13 @@ function Header() {
             <span className="absolute top-0 right-0 inline-block w-2 h-2 bg-sky-500 border-2 border-sky-500 rounded-full"></span>
           </div>
           <div className="relative inline-block mx-4">
-            <img className="inline-block object-cover w-7 h-7 rounded-full" src="https://images.pexels.com/photos/2589653/pexels-photo-2589653.jpeg?auto=compress&cs=tinysrgb&h=650&w=940" alt="Profile"/>
+            <img className="inline-block object-cover w-8 h-8 rounded-full" src="https://images.unsplash.com/photo-1580489944761-15a19d654956?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1361&q=80" alt="Profile"/>
             <span className="absolute bottom-0 right-0 inline-block w-2 h-2 bg-green-600 border-2 border-green-600 rounded-full"></span>
           </div>
+          <div className="flex flex-col text-white text-xs mr-4">
+              <h4>Claudia S.</h4>
+              <p className="text-gray-500" >Cuenta de Admin</p>
+            </div>
         </div>
       </div>
     </div>
