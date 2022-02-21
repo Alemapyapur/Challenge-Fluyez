@@ -31,7 +31,8 @@ El reto consiste en que:
 ## Stack Tech:
 - React
 - Axios
-- Redux Tolkit
+- React Redux
+- Redux Toolkit
 - React Router Dom
 - React Table
 - Tailwind
