@@ -13,6 +13,7 @@ export const ContentRoutes = () => {
         <Route path="turnos" element={<Turnos/>} />
         <Route path="administrador" element={<AgregarPeliculas/>} />
         <Route path="perfil" element={<Perfil/>} />
+        {/* verificar, action en Store */}
         <Route path="movie/:imdbID" elemen={<DetallePeliculas/>} />
       </Route>
     </Routes>
