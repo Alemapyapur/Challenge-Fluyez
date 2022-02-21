@@ -1,0 +1,74 @@
+[
+  {
+    "turno": "Tarde",
+    "encargado": "Lina",
+    "local": "Comas",
+    "horas semanales": 48
+  },
+  {
+    "turno": "Tarde",
+    "encargado": "Santiago",
+    "local": "Breña",
+    "horas semanales": 38
+  },
+  {
+    "turno": "Mañana",
+    "encargado": "Adelina",
+    "local": "Surco",
+    "horas semanales": 48
+  },
+  {
+    "turno": "Mañana",
+    "encargado": "Bruno",
+    "local": "Chorrillos",
+    "horas semanales": 51
+  },
+  {
+    "turno": "Mañana",
+    "encargado": "Raul",
+    "local": "Barranco",
+    "horas semanales": 48
+  },
+  {
+    "turno": "Mañana",
+    "encargado": "Carlos",
+    "local": "San Miguel",
+    "horas semanales": 43
+  },
+  {
+    "turno": "Tarde",
+    "encargado": "Emilio",
+    "local": "Lima",
+    "horas semanales": 48
+  },
+    {
+    "turno": "Tarde",
+    "encargado": "Rosa",
+    "local": "San Isidro",
+    "horas semanales": 48
+  },
+  {
+    "turno": "Mañana",
+    "encargado": "Maria",
+    "local": "Pueblo Libre",
+    "horas semanales": 36
+  },
+  {
+    "turno": "Tarde",
+    "encargado": "Rocio",
+    "local": "Callao",
+    "horas semanales": 48
+  },
+  {
+    "turno": "Mañana",
+    "encargado": "Carla",
+    "local": "La Victoria",
+    "horas semanales": 48
+  },
+  {
+    "turno": "Tarde",
+    "encargado": "Guisella",
+    "local": "Jesus Maria",
+    "horas semanales": 40
+  }
+]
