@@ -1,6 +1,11 @@
 # Challenge Fluyez
 
-
+El reto consiste en que:
+- Se debe realizar la maquetación de un administrador en base a lo propuesto en el mockup (Listado de Películas).
+- Se debe realizar un crud básico (registrar, editar y eliminar) de películas en base a los mockups adjuntos (Nueva Película, Editar Película).
+- La lista de películas debe consumirse de la siguiente API http://www.omdbapi.com.
+- El desarrollo debe realizarse en React.
+- El manejo de datos debe estar almacenado en Redux.
 
 ![](src/assets/localhost_3000_administrador%20(6).png)
 ![](src/assets/localhost_3000_%20(10).png)
