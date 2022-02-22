@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e486941f.css",
+    "main.js": "/static/js/main.bc57dd61.js",
+    "static/js/787.4b28e91e.chunk.js": "/static/js/787.4b28e91e.chunk.js",
+    "static/media/logo-telly.svg": "/static/media/logo-telly.f2b67afc08e0a473debd738afb65fa7e.svg",
+    "index.html": "/index.html",
+    "main.e486941f.css.map": "/static/css/main.e486941f.css.map",
+    "main.bc57dd61.js.map": "/static/js/main.bc57dd61.js.map",
+    "787.4b28e91e.chunk.js.map": "/static/js/787.4b28e91e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e486941f.css",
+    "static/js/main.bc57dd61.js"
+  ]
+}
