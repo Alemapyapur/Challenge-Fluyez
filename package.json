@@ -1,6 +1,7 @@
 {
   "name": "challenge-fluyez",
   "version": "0.1.0",
+  "homepage": "https://alemapyapur.github.io/Challenge-Fluyez/",
   "private": true,
   "dependencies": {
     "@reduxjs/toolkit": "^1.7.2",
