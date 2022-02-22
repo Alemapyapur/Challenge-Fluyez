@@ -1,4 +1,4 @@
-import { useState, useEffect } from 'react';
+import { useEffect } from 'react';
 import { useDispatch } from 'react-redux';
 import { asyncMovies, asyncShows } from '../../store/moviesStore';
 import ListaPeliculas from './ListaPeliculas';
