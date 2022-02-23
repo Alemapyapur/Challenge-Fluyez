@@ -1,4 +1,4 @@
-# Challenge Fluyez
+# Movie-Search-Telly
 
 El reto consiste en que:
 - Se debe realizar la maquetación de un administrador en base al mockup (Listado de Películas).
